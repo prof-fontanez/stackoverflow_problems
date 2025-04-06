@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<part>
+    <desc>qwe</desc>
+    <qty>2</qty>
+</part>
+<part>
+    <desc>AAAA</desc>
+    <qty>1</qty>
+    <part>
+        <desc>BBBB</desc>
+        <qty>1</qty>
+            <part>
+                <desc>CCCC</desc>
+                <qty>13</qty>
+                    <part>
+                        <desc>DDDD</desc>
+                        <qty>12</qty>
+                            <part>
+                                <desc>EEEE</desc>
+                                <qty>21</qty>
+                            </part>
+                    </part>
+            </part>
+            <part>
+                <desc>CCCC1111</desc>
+                <qty>13</qty>
+                    <part>
+                        <desc>DDDD1111</desc>
+                        <qty>12</qty>
+                            <part>
+                                <desc>EEEE1111</desc>
+                                <qty>21</qty>
+                            </part>
+                    </part>
+            </part>
+    </part>
+    <part>
+        <desc>G</desc>
+        <qty>1</qty>
+            <part>
+                <desc>H</desc>
+                <qty>13</qty>
+                    <part>
+                        <desc>I</desc>
+                        <qty>12</qty>
+                    </part>
+            </part>
+    </part>
+    </part>
+    </root>
